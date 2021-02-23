@@ -30,7 +30,7 @@ submitted should abide by the following standards:
   * `class SentenceCaseClassesAndStructs {}`
   * `kSentenceCaseConstants` prepended with a lowercase `k`
   * `UPPERCASE_UNDERSCORED_MACROS` for variables or same style as functions for macro functions
-  * `class_member_variables_` end with a `_`
+  * `class_member_variables_` end with an `_` (underscore)
 * 100 column limit (where it doesn't impair readability)
 * Unix line endings (only LF no CRLF)
 * Javadoc documentation where appropriate
